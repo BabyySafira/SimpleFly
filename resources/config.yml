@@ -1,1 +1,15 @@
+#SimpleFly by BabyySafira
+#Please don't change the author name UnU
 
+#No permission message
+no-permission: "§cYou do not have permission to use this command"
+
+#Message when player is creative mode
+only-survival-message: "§cYou cannot use this command on creative mode!"
+
+#Fly message
+fly-enabled: "§aFlight enable!"
+fly-disable: "§aFlight disable!"
+
+#In game only message
+in-game-only: "§cYou only can use this command in game"
