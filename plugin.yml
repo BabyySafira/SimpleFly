@@ -1,0 +1,15 @@
+name: SimpleFly
+author: BabyySafira
+main: BabyySafira\SimpleFly\Main
+api: 4.0.0
+version: 1.0.0
+
+commands:
+ fly:
+  description: "SimpleFly by BabyySafira"
+  usage: /fly
+  permission: fly.cmd
+permissions:
+ fly.cmd:
+  description: "Permission for SimpleFly command"
+  default: op
